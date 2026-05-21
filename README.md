@@ -1,7 +1,11 @@
 # Frosted-Fantasies
 
-🌐 Live Demo
+Live Demo :
 https://frosted-fantasies.onrender.com
+
+Run Locally:
+1) git clone <repository-link>
+2) Open index.html in the browser.
 
 A responsive and modern bakery web application developed using HTML5, CSS3, and JavaScript. The project features a visually appealing UI, product showcase sections, and optimized responsive layouts for seamless user experience across devices.
 
@@ -16,6 +20,4 @@ Tech Stack :
 1) HTML5
 2) CSS3
 
-Run Locally:
-1) git clone <repository-link>
-2) Open index.html in the browser.
+Developed by Trishaala Sharma

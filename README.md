@@ -17,6 +17,5 @@ Tech Stack :
 2) CSS3
 
 Run Locally:
-git clone <repository-link>
-
-Open index.html in the browser.
+1) git clone <repository-link>
+2) Open index.html in the browser.
